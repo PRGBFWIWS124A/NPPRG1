@@ -3,5 +3,7 @@ public class Main {
 
         System.out.println("Ich kann programmieren!");
 
+        System.out.println("Test, ob das pushen in das Git funktioniert");
+
     }
 }
