@@ -1,6 +1,2 @@
-public class Coordinate {
-
-    public Coordinate(int column, int row) {
-
-    }
+public record Coordinate(int column, int row) {
 }
